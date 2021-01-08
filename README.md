@@ -11,24 +11,24 @@ This code is executed by single thread. When the number of particles becomes N=5
 | filein | name of input file |
 | fileout | name of output file |
 |xp, yp, zp | position of particles |
-vxp, vyp, vzp peculiar velocity of particles
-Psi2        scalar function (potential) for 2LPT
-Psi3A       scalar function (potential) for 3LPT (longitudinal mode, triplet term of 1LPT)
-Psi3B       scalar function (potential) for 3LPT (longitudinal mode, product term of 1LPT and 2LPT)
-S2          displacement vector of 2LPT
-S3A         displacement vector of 3LPT (longitudinal mode, triplet term of 1LPT)
-S3B         displacement vector of 3LPT (longitudinal mode, product term of 1LPT and 2LPT)
-S3T         displacement vector of 3LPT (transverse mode)
-S1d         spatial derivative of linear perturbation
-S2d         spatial derivative of S2
-EE          growing factor for 2LPT
-EEt         time derivative of growing factor for 2LPT
-FFa         growing factor for 3LPT (longitudinal mode, triplet term of 1LPT)
-FFb         growing factor for 3LPT (longitudinal mode, product term of 1LPT and 2LPT)
-FFat        time derivative of growing factor for 3LPT (longitudinal mode, triplet term of 1LPT)
-FFbt        time derivative of growing factor for 3LPT (longitudinal mode, product term of 1LPT and 2LPT)
-FFtb        growing factor for 3LPT (transverse mode)
-FFtbt       time derivative of growing factor for 3LPT (transverse mode)
+|vxp, vyp, vzp |peculiar velocity of particles |
+|Psi2       | scalar function (potential) for 2LPT |
+|Psi3A      | scalar function (potential) for 3LPT (longitudinal mode, triplet term of 1LPT) |
+|Psi3B      | scalar function (potential) for 3LPT (longitudinal mode, product term of 1LPT and 2LPT) |
+|S2         | displacement vector of 2LPT |
+|S3A        | displacement vector of 3LPT (longitudinal mode, triplet term of 1LPT) |
+|S3B        | displacement vector of 3LPT (longitudinal mode, product term of 1LPT and 2LPT) |
+|S3T        | displacement vector of 3LPT (transverse mode) |
+|S1d        | spatial derivative of linear perturbation |
+|S2d        | spatial derivative of S2 |
+|EE         | growing factor for 2LPT |
+|EEt        | time derivative of growing factor for 2LPT |
+|FFa        | growing factor for 3LPT (longitudinal mode, triplet term of 1LPT) |
+|FFb        | growing factor for 3LPT (longitudinal mode, product term of 1LPT and 2LPT) |
+|FFat       | time derivative of growing factor for 3LPT (longitudinal mode, triplet term of 1LPT) |
+|FFbt       | time derivative of growing factor for 3LPT (longitudinal mode, product term of 1LPT and 2LPT) |
+|FFtb       | growing factor for 3LPT (transverse mode) |
+|FFtbt      | time derivative of growing factor for 3LPT (transverse mode) |
 
 
 In future, we will upload the code for COSMICS version.
