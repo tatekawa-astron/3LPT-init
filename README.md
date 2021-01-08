@@ -6,10 +6,10 @@ the condition with second- or third-order Lagrangian approximations (2LPT, 3LPT)
 
 This code is executed by single thread. When the number of particles becomes N=512^3 or larger, compile option for Fortran is required.
 
-Variables:
-filein      name of input file
-fileout     name of output file
-xp, yp, zp    position of particles
+| Variables | meaning |
+| filein | name of input file |
+| fileout | name of output file |
+|xp, yp, zp | position of particles |
 vxp, vyp, vzp peculiar velocity of particles
 Psi2        scalar function (potential) for 2LPT
 Psi3A       scalar function (potential) for 3LPT (longitudinal mode, triplet term of 1LPT)
