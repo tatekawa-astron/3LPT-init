@@ -7,6 +7,7 @@ the condition with second- or third-order Lagrangian approximations (2LPT, 3LPT)
 This code is executed by single thread. When the number of particles becomes N=512^3 or larger, compile option for Fortran is required.
 
 | Variables | meaning |
+|---|---|
 | filein | name of input file |
 | fileout | name of output file |
 |xp, yp, zp | position of particles |
