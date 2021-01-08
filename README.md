@@ -32,8 +32,8 @@ This code is executed by single thread. When the number of particles becomes N=5
 
 
 In future, we will upload the code for COSMICS version.
-
-Reference
+  
+Reference  
 Takayuki Tatekawa, ``Transients from initial conditions based on Lagrangian perturbation theory in N-body simulations III: The case of Gadget-2 code'', Int. J. Mod. Phys. D  
 https://doi.org/10.1142/S0218271820500960  
 arXiv:1901.09210 
