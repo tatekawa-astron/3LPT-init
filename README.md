@@ -35,6 +35,6 @@ In future, we will upload the code for COSMICS version.
   
 Reference  
 Takayuki Tatekawa, ``Transients from initial conditions based on Lagrangian perturbation theory in N-body simulations III: The case of Gadget-2 code'', 
- Int. J. Mod. Phys. D, 29 (15), 2050096 (2020)
+ Int. J. Mod. Phys. D, 29 (15), 2050096 (2020)  
 https://doi.org/10.1142/S0218271820500960  
 arXiv:1901.09210 
